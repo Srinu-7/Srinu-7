@@ -22,7 +22,7 @@
 - 🎓 B.Tech in Computer Science & Engineering (2023)  
 - 🧠 Backend focused | Full-stack capabilities  
 - 🛠️ Tech Stack: Java, Spring Boot, React, Redux, MySQL, JavaScript  
-- 🧩 Solved 700+ LeetCode Problems | 🔥 365-Day Streak  
+- 🧩 Solved 700+ LeetCode Problems | 🔥 450-Day Streak  
 - 🚧 Building scalable web apps with clean architecture  
 - 🏆 Certified in DSA, Backend, Frontend & Microservices
 
