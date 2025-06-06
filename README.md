@@ -51,17 +51,14 @@
 #### 🛒 [E-Commerce Platform](https://quickcart-kappa.vercel.app/)
 > Full-stack shopping platform with secure payments, real-time updates & authentication  
 **Tech:** React, Spring Boot, MySQL, JWT, Razorpay  
-**Deployed:** [https://quickcart-kappa.vercel.app/](https://quickcart-kappa.vercel.app/)
 
 #### 🎙️ [Voice-Controlled Todo App](https://todo-zeta-blond-83.vercel.app)
 > Manage tasks with voice via Web Speech API & GPT-4o  
 **Tech:** JavaScript, Spring Boot, JWT, OAuth  
-**Deployed:** [https://todo-zeta-blond-83.vercel.app](https://todo-zeta-blond-83.vercel.app)
 
 #### 📊 [Google Sheets Clone](https://google-sheet-clone-three.vercel.app/)
 > Real-time spreadsheet clone with formulas and persistence  
 **Tech:** HTML, CSS, JavaScript  
-**Deployed:** [https://google-sheet-clone-three.vercel.app/](https://google-sheet-clone-three.vercel.app/)
 
 ---
 
