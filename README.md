@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maka Srinivasulu</h1>
-<h3 align="center">🚀 Java Full Stack Developer Trainee at AccioJob | 💻 Backend Specialist | 📍 India</h3>
+<h3 align="center">🚀 Full Stack Developer | 💻 Backend Specialist | 📍 India</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/maka-srinivasulu-7abaa8244/">
@@ -22,8 +22,7 @@
 - 🎓 B.Tech in Computer Science & Engineering (2023)  
 - 🧠 Backend focused | Full-stack capabilities  
 - 🛠️ Tech Stack: Java, Spring Boot, React, Redux, MySQL, JavaScript  
-- 💪 LeetCode Contest Rating: **1646 | 3⭐**  
-- 🧩 Solved 700+ LeetCode Problems | 🔥 365-Day Streak  
+- 🧩 Solved 700+ LeetCode Problems | 🔥 450-Day Streak  
 - 🚧 Building scalable web apps with clean architecture  
 - 🏆 Certified in DSA, Backend, Frontend & Microservices
 
@@ -63,7 +62,6 @@
 ---
 
 ### 🏅 Achievements
-- 💪 LeetCode Contest Rating: **1646 | 3⭐**  
 - 🔥 700+ problems solved on LeetCode  
 - ⚔️ 365-day coding streak  
 - 🧾 Certifications in DSA, Microservices, Backend & Frontend from AccioJob & Udemy
