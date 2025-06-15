@@ -11,7 +11,7 @@
   <a href="mailto:makasrinivasulu7@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&labelColor=red" alt="Email" />
   </a>
-  <a href="https://drive.google.com/file/d/1HiLtBiyzgoU9L_Awrp1V9tknuIicW8zx/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/16XV1ypjkKjVKx5Q-Gf1WTfI5U2M7Jj33/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-blue?style=flat&logo=google-drive&logoColor=white" alt="Resume" />
   </a>
 </p>
@@ -79,5 +79,5 @@
 ---
 
 ### 📫 Let's Connect!
-💌 Feel free to reach out at **makasrinivasulu7@gmail.com**  
-🌐 [LinkedIn](https://www.linkedin.com/in/maka-srinivasulu-7abaa8244/) | [LeetCode](https://leetcode.com/u/SrinuMaka/) | [GitHub](https://github.com/Srinu-7) for projects
+💌 Reach me at **makasrinivasulu7@gmail.com**  
+🌐 [LinkedIn](https://www.linkedin.com/in/maka-srinivasulu-7abaa8244/) | [LeetCode](https://leetcode.com/u/SrinuMaka/) | [GitHub](https://github.com/Srinu-7)
