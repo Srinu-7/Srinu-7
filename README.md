@@ -11,7 +11,7 @@
   <a href="mailto:makasrinivasulu7@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&labelColor=red" alt="Email" />
   </a>
-  <a href="https://drive.google.com/file/d/16XV1ypjkKjVKx5Q-Gf1WTfI5U2M7Jj33/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1fJt_1Ucj8eU91A3Zc2eHsMmqsrwfR-Fr/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-blue?style=flat&logo=google-drive&logoColor=white" alt="Resume" />
   </a>
 </p>
